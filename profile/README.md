@@ -1,5 +1,7 @@
 <div align="center">
 
+<img alt="Logo Banner" src="https://raw.githubusercontent.com/Stack-Duel/.github/main/Logos/algowars-banner.jpg" />
+
 # Stack Duel
 
 **Open Source Gamified Coding Platform**
@@ -11,14 +13,6 @@
 </div>
 
 ---
-
-## Repos
-
-| Repo | What's in it |
-|---|---|
-| [web](https://github.com/Stack-Duel/web) | Frontend |
-| [server](https://github.com/Stack-Duel/server) | Backend / API |
-| [infrastructure](https://github.com/Stack-Duel/infrastructure) | Deployment & infra |
 
 ## Contributing
 
