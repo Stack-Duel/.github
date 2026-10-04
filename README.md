@@ -1,3 +1,3 @@
 <p align="center">
-<img alt="Logo Banner" src="https://github.com/Stack-Duel/.github/main/Logos/SVG/algowars-banner.jpg?sanitize=true"/>
+<img alt="Logo Banner" src="https://raw.githubusercontent.com/Stack-Duel/.github/main/Logos/algowars-banner.jpg" />
 </p>
