@@ -16,6 +16,6 @@
 
 ## Contributing
 
-We welcome contributions from anyone — no org membership required to open a PR. See [CONTRIBUTING.md](https://github.com/Stack-Duel/.github/blob/main/CONTRIBUTING.md) for the access model and guidelines, and check the [Product Board](https://github.com/orgs/Stack-Duel/projects/1) for what's being worked on.
+We welcome contributions from anyone. See [CONTRIBUTING.md](https://github.com/Stack-Duel/.github/blob/main/CONTRIBUTING.md) for the access model and guidelines, and check the [Product Board](https://github.com/orgs/Stack-Duel/projects/1) for what's being worked on.
 
-Found a bug or have a feature idea? Open an issue on the relevant repo — you'll get a template to fill out.
+Found a bug or have a feature idea? Open an issue on the relevant repo - you'll get a template to fill out.
